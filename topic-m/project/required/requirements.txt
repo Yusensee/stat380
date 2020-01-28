@@ -1,0 +1,11 @@
+R:
+library(httr)
+library(data.table)
+library(Rtsne)
+library(ggplot2)
+library(caret)
+library(ClusterR)
+library(keras)
+library(tidyverse)
+library(xgboost)
+library(Metrics)

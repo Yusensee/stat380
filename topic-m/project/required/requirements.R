@@ -1,0 +1,12 @@
+install.packages("data.table",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("optparse",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("httr",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("Rtsne",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("ggplot2",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("caret",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("ClusterR",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("keras",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("tidyverse",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("xgboost",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+install.packages("Metrics",repos= "http://lib.stat.cmu.edu/R/CRAN/")
+

@@ -1,0 +1,37 @@
+set,set_names,release_date,type,year,future_date,test
+AER,Aether Revolt,2017-01-20,expansion,2017,2017-03-24,0
+AKH,Amonkhet,2017-04-28,expansion,2017,2017-06-30,0
+AVR,Avacyn Restored,2012-05-04,expansion,2012,2012-07-06,0
+BFZ,Battle for Zendikar,2015-10-02,expansion,2015,2015-12-04,0
+BNG,Born of the Gods,2014-02-07,expansion,2014,2014-04-11,0
+DGM,Dragon's Maze,2013-05-03,expansion,2013,2013-07-05,0
+DKA,Dark Ascension,2012-02-03,expansion,2012,2012-04-06,0
+DOM,Dominaria,2018-04-27,expansion,2018,2018-06-29,0
+DTK,Dragons of Tarkir,2015-03-27,expansion,2015,2015-05-29,0
+ELD,Throne of Eldraine,2019-10-04,expansion,2019,2019-12-06,0
+EMN,Eldritch Moon,2016-07-22,expansion,2016,2016-09-23,0
+FRF,Fate Reforged,2015-01-23,expansion,2015,2015-03-27,0
+GRN,Guilds of Ravnica,2018-10-05,expansion,2018,2018-12-07,0
+GTC,Gatecrash,2013-02-01,expansion,2013,2013-04-05,0
+HOU,Hour of Devastation,2017-07-14,expansion,2017,2017-09-15,0
+ISD,Innistrad,2011-09-30,expansion,2011,2011-12-02,0
+JOU,Journey into Nyx,2014-05-02,expansion,2014,2014-07-04,0
+KLD,Kaladesh,2016-09-30,expansion,2016,2016-12-02,0
+KTK,Khans of Tarkir,2014-09-26,expansion,2014,2014-11-28,0
+M12,Magic 2012,2011-07-15,core,2011,2011-09-16,0
+M13,Magic 2013,2012-07-13,core,2012,2012-09-14,0
+M14,Magic 2014,2013-07-19,core,2013,2013-09-20,0
+M15,Magic 2015,2014-07-18,core,2014,2014-09-19,0
+M19,Core Set 2019,2018-07-13,core,2018,2018-09-14,0
+M20,Core Set 2020,2019-07-12,core,2019,2019-09-13,1
+MBS,Mirrodin Besieged,2011-02-04,expansion,2011,2011-04-08,0
+NPH,New Phyrexia,2011-05-13,expansion,2011,2011-07-15,0
+OGW,Oath of the Gatewatch,2016-01-22,expansion,2016,2016-03-25,0
+ORI,Magic Origins,2015-07-17,core,2015,2015-09-18,0
+RIX,Rivals of Ixalan,2018-01-19,expansion,2018,2018-03-23,0
+RNA,Ravnica Allegiance,2019-01-25,expansion,2019,2019-03-29,1
+RTR,Return to Ravnica,2012-10-05,expansion,2012,2012-12-07,0
+SOI,Shadows over Innistrad,2016-04-08,expansion,2016,2016-06-10,0
+THS,Theros,2013-09-27,expansion,2013,2013-11-29,0
+WAR,War of the Spark,2019-05-03,expansion,2019,2019-07-05,1
+XLN,Ixalan,2017-09-29,expansion,2017,2017-12-01,0
